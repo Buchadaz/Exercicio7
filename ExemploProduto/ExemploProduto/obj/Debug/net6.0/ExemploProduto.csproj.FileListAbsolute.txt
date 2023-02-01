@@ -1,0 +1,15 @@
+D:\estudocsharp\ExemploProduto\ExemploProduto\bin\Debug\net6.0\ExemploProduto.exe
+D:\estudocsharp\ExemploProduto\ExemploProduto\bin\Debug\net6.0\ExemploProduto.deps.json
+D:\estudocsharp\ExemploProduto\ExemploProduto\bin\Debug\net6.0\ExemploProduto.runtimeconfig.json
+D:\estudocsharp\ExemploProduto\ExemploProduto\bin\Debug\net6.0\ExemploProduto.dll
+D:\estudocsharp\ExemploProduto\ExemploProduto\bin\Debug\net6.0\ExemploProduto.pdb
+D:\estudocsharp\ExemploProduto\ExemploProduto\obj\Debug\net6.0\ExemploProduto.csproj.AssemblyReference.cache
+D:\estudocsharp\ExemploProduto\ExemploProduto\obj\Debug\net6.0\ExemploProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudocsharp\ExemploProduto\ExemploProduto\obj\Debug\net6.0\ExemploProduto.AssemblyInfoInputs.cache
+D:\estudocsharp\ExemploProduto\ExemploProduto\obj\Debug\net6.0\ExemploProduto.AssemblyInfo.cs
+D:\estudocsharp\ExemploProduto\ExemploProduto\obj\Debug\net6.0\ExemploProduto.csproj.CoreCompileInputs.cache
+D:\estudocsharp\ExemploProduto\ExemploProduto\obj\Debug\net6.0\ExemploProduto.dll
+D:\estudocsharp\ExemploProduto\ExemploProduto\obj\Debug\net6.0\refint\ExemploProduto.dll
+D:\estudocsharp\ExemploProduto\ExemploProduto\obj\Debug\net6.0\ExemploProduto.pdb
+D:\estudocsharp\ExemploProduto\ExemploProduto\obj\Debug\net6.0\ExemploProduto.genruntimeconfig.cache
+D:\estudocsharp\ExemploProduto\ExemploProduto\obj\Debug\net6.0\ref\ExemploProduto.dll
